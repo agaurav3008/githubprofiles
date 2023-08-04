@@ -4,7 +4,7 @@ This is a simple web app that allows you to find GitHub profiles using the GitHu
 
 ## Demo
 
-[Link to the live demo will be inserted here]
+https://agaurav3008.github.io/githubprofiles/
 
 ## Features
 
@@ -23,8 +23,8 @@ This is a simple web app that allows you to find GitHub profiles using the GitHu
 
 To run the web app locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
-2. Navigate to the project directory: `cd github-profile-finder`
+1. Clone the repository: `git clone https://github.com/agaurav3008/githubprofiles`
+2. Navigate to the project directory: `cd githubprofiles`
 3. Open the `index.html` file in your web browser.
 
 ## How to Use
