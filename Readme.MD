@@ -34,17 +34,9 @@ To run the web app locally, follow these steps:
 3. Click the "Search" button.
 4. The app will fetch data from the GitHub API and display the user's profile information.
 
-## Screenshots
-
-[Add relevant screenshots of the web app in action]
-
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
